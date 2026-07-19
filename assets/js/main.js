@@ -192,7 +192,7 @@
   // Products with a URL in STORE_URLS become clickable links;
   // all others render as disabled "Coming Soon" badges.
   const STORE_URLS = {
-    // 'PlugScope': 'https://apps.apple.com/app/plugscope/idXXXXXXXXX'
+    'PlugScope': 'https://apps.apple.com/us/app/plugscope/id6790723352?mt=12'
   };
   const STORE_BADGE_DATA = {
     en: {
