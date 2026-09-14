@@ -881,7 +881,7 @@ img { max-width: 100%; height: auto; display: block }
   right: calc(var(--screen-inset-x) + var(--device-screen-scale));
 }
 
-/* Portrait iPad bezel — tuned for iPad Pro 13″ M4 */
+/* Portrait iPad bezel: tuned for iPad Pro 13″ M4 */
 .device-shot--ipad-portrait .device-shot__screen {
   --screen-inset-y: 4.0%;
   --screen-inset-x: 6.5%;
