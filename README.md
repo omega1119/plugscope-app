@@ -1,6 +1,6 @@
 # PlugScope
 
-Marketing website for **PlugScope** — a lightweight macOS menu-bar utility that maps and
+Marketing website for **PlugScope**: a lightweight macOS menu-bar utility that maps and
 explains your Mac's USB and Thunderbolt topology (buses, hubs, devices, link speeds, power
 budgets, live disk throughput, and attached storage) in one clean, glanceable view.
 
